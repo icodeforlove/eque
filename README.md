@@ -2,6 +2,8 @@
 
 Eque is a async queuing mechanism for fixed job sets. It shines with its ability to spawn/destroy workers in an async manner at the same time as queuing jobs.
 
+# Example
+![example](http://img42.com/kXTBK+)
 
 # Usage
 
