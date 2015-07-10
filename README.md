@@ -17,6 +17,12 @@ EQue.start({
 				console.log(worker);
 				callback();
 			}, 1000);
+		},
+		function (worker, callback) {
+			setTimeout(function () {
+				console.log(worker);
+				callback();
+			}, 1000);
 		}
 	],
 
